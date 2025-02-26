@@ -4,7 +4,8 @@
 - Pronouns: He, Him.
 - Fun fact: I love reading so much that I finished the entire Harry Potter Series in 1 month.
 - I am in a coding club at my school and am in 5th grade.
-- 
+- I go to Glen Shields Public School.
+- I get good grades.
 
 <!---
 book-lover-man/book-lover-man is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
